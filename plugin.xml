@@ -33,7 +33,7 @@
     </platform>
 
 	<config-file parent="/*" target="config.xml">
-		<preference name="REWARDVIDEO_ID" value="$REWARDVIDEO_ID"/>
-		<preference name="INTERSTITIAL_ID" value="$INTERSTITIAL_ID"/>
+		<preference name="REWARDVIDEO_ID" value="REWARDED-1314941"/>
+		<preference name="INTERSTITIAL_ID" value="INTERSTITIAL-7699046"/>
 	</config-file>
 </plugin>
